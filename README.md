@@ -6,12 +6,17 @@ This is the notebook for the youtube video on experiemental notebook for machine
 
 Step to use Neptune for experiemental notebook
 
-- Create a neptune account
+- Create a neptune account on [neptune.ai](neptune.ai)
 - Create a project on Neptune
 - Install Neptune python library
-- Intialize neptune and upload your notebook. If you are using jupyter extension then install Neptune jupyter extension
+
+```pip install neptune-notebooks```
+
+```jupyter nbextension enable --py neptune-notebooks ```
+
+- neptune and upload your notebook. If you are using jupyter extension then install Neptune jupyter extension
 - create an experiment 
-- Yola! 
+- Yola! keep experiementing 
 
 
 
